@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Tahzeeb Khan</h1>
 <h3 align="center">A BTech Student, From SBJITMR, Nagpur.</h3>
-<h5 align="center">An Java Full stack Developer.</h5>
+<h5 align="center">An Full stack Java & Python Developer.</h5>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohd-tahzeeb-khan" alt="mohd-tahzeeb-khan" /></a> </p>
 
