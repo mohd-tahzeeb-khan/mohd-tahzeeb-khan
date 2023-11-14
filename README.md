@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd Tahzeeb Khan</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Tahzeeb Khan</h1>
 <h3 align="center">A BTech Student, From SBJITMR, Nagpur.</h3>
 <h5 align="center">An Full stack Java & Python Developer.</h5>
 
