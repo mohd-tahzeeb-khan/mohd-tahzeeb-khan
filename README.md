@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohd-tahzeeb-khan" alt="mohd-tahzeeb-khan" /></a> </p>
 
-- 🔭 I’m currently working on [Internship Project]([https://github.com/mohd-tahzeeb-khan/Clone-of-Screener.in](https://github.com/mohd-tahzeeb-khan/Advance-Quiz-Application-65HIBKJS.git)
+- 🔭 I’m currently working on [Internship Project]([https://github.com/mohd-tahzeeb-khan/Advance-Quiz-Application-65HIBKJS.git])
 
 - 🌱 I’m currently learning **Spring Boot**
 
