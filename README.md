@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohd-tahzeeb-khan" alt="mohd-tahzeeb-khan" /></a> </p>
 
-- 🔭 I’m currently working on [Internship Project]([https://github.com/mohd-tahzeeb-khan/Advance-Quiz-Application-65HIBKJS.git])
+- 🔭 I’m currently working on [Internship Project](https://github.com/mohd-tahzeeb-khan/Advance-Quiz-Application-65HIBKJS.git)
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohd-tahzeeb-khan?tab=repositories](https://github.com/mohd-tahzeeb-khan?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/mohd-tahzeeb-khan?tab=repositories)
 
 - 💬 Ask me about **java, python and Framework**
 
